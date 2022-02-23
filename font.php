@@ -12,6 +12,6 @@
     </style>
   </head>
   <body>
-    <h1>ฟอนต์ของฉัน</h1>
+    <h1 id="font1">ฟอนต์ของฉัน</h1>
   </body>
 </html>
