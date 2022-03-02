@@ -5,14 +5,16 @@
   <body>
     <table border="1">
       <tr>
-        <td>คอลัมน์ที่ 1</td>
-        <td>คอลัมน์ที่ 2</td>
-        <td>คอลัมน์ที่ 3</td>
+        <th>ลำดับ</th>
+        <th>ชื่อ</th>
+        <th>รูปภาพ</th>
+        <th>FB/Twitter</th>
       </tr>
       <tr>
-        <td>คอลัมน์ที่ 1</td>
-        <td>คอลัมน์ที่ 2</td>
-        <td>คอลัมน์ที่ 3</td>
+        <td>1</td>
+        <td></td>
+        <td><img src="..." width="45px"></td>
+        <td><a href="...">Twitter</td>
       </tr>
     </table>
   </body>
