@@ -13,7 +13,7 @@
       <tr>
         <td>1</td>
         <td></td>
-        <td><img src="https://www.google.com/search?q=mark+zuckerberg&rlz=1C9BKJA_enTH967TH967&hl=th&prmd=inv&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiI063Fsa72AhWkwjgGHdsDD-sQ_AUoAXoECAIQAQ&biw=1180&bih=701&dpr=2#imgrc=3Y0BI8d__2nluM" width="45px"></td>
+        <td><img src="https://images.app.goo.gl/Wybn6nGmdFwkgEqD6" width="45px"></td>
         <td><a href="https://www.facebook.com/search/top?q=mark%20zuckerberg">FB</td>
       </tr>
     </table>
