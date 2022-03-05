@@ -32,7 +32,7 @@
         <td>1</td>
         <td>Lana Del Rey</td>
         <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Lana_Del_Rey_Releases_Music_Video_For_New_Track_%27Burning_Desire%279.jpg" width="65px"></td>
-        <td><a href="https://www.facebook.com/melaniemartinezmusic">FB</td>
+        <td><a href="https://www.facebook.com/lanadelrey/">FB</td>
       </tr>
       <tr>
         <td>1</td>
